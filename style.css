@@ -1,0 +1,26 @@
+#uiop{
+    background-color: rgba(115, 255, 100, 0.582);
+}
+#qwerty{
+    font-size: large;
+    width: 100%;
+    margin:0px;
+}
+#asdfg,#hjkl,#no{
+    font-size: 10px;
+}
+canvas{
+    border:2px solid rgba(186, 230, 180, 0.69);
+    border-radius:360px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgba(141, 206, 115, 0.815);
+}
+.footer{
+    bottom:0;
+    width: 100%;
+    background-color: black;
+    color: rgb(17, 17, 17);
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+}
